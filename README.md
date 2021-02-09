@@ -1,2 +1,5 @@
 # FrontendMentor-Challenges
-Desafíos de Frontend Mentor
+
+Colección de todos los desafíos de Frontend Mentor realizados.
+
+
