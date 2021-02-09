@@ -1,22 +1,20 @@
 # Frontend Mentor - Social proof section
+# Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Este es un desafío de maquetación propuesto por [Frontend Mentor](https://www.frontendmentor.io).
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+Estos desafíos permiten mejorar tus skills con diseños de la vida real.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+![Design preview for the Social proof section mobile version](./design/mobile-design.jpg)
 
 ## The challenge
 
-Your challenge is to build out this social proof section and get it looking as close to the design as possible.
+El deafío consiste en construir una sección de testimonios que se parezca lo máximo posible al diseño propuesto.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Comenzamos maquetando la versión mobile (mobile first approach) y luego usamos media queries para la versión desktop.
 
-Your users should be able to:
-
-- View the optimal layout for the section depending on their device's screen size
 
