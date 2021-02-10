@@ -15,4 +15,5 @@ El deafío consiste en construir una sección de testimonios que se parezca lo m
 Comenzamos maquetando la versión mobile (mobile first approach) y luego usamos media queries para la versión desktop.
 ![Design preview for the Social proof section mobile version](./design/mobile-design.jpg)
 
+Nos tomamos la libertad de agregar un breakpoint en 768px para ofrecer una versión tablet  y hacer más agradable la transición entre mobile y desktop.
 
